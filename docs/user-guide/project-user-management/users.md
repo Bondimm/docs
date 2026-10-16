@@ -35,7 +35,7 @@ To access Users Management, click the **Profile** icon in the bottom-left corner
 
 The users list displays all platform users in a searchable, filterable table.
 
-![Users Management list](./images/users-list.png)
+![Users Management list — the default project is labeled Default in the Projects column](./images/users-list.png)
 
 ### Columns
 
@@ -153,6 +153,8 @@ the user record.
    [default project](#default-project) in the same step.
 4. Click **Add**.
 
+![Add Project dialog with a project selected and the Set as default switch turned on](./images/add-project-set-default.png)
+
 The new assignment appears in the **Projects** table immediately with the **User** role. To
 grant **Project Admin**, change the role in the **Role** column afterwards.
 
@@ -211,6 +213,8 @@ members list — the explicit default is cleared and the next rule in the table 
   and is prefixed with the label **Default** (tooltip: _"Default project"_).
 - **User Details** — the **Projects** table has a **Default** column. The radio button of the
   default project is selected.
+
+![User Details panel — Projects table with the Default column; the personal project is the default](./images/user-details-default-project.png)
 
 ### Set a User's Default Project
 
