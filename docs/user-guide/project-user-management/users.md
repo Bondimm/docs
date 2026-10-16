@@ -244,3 +244,5 @@ recorded is not moved to the new project.
 Auditors see the **Default** column with all radio buttons disabled. Project Admins cannot set
 the default project for members of their projects, and users cannot choose their own default
 project. Setting a default for many users at once through **Bulk Actions** is not supported.
+
+![User Details panel as seen by an Auditor — the Default column is visible, all radio buttons are disabled](./images/auditor-user-details-readonly.png)
