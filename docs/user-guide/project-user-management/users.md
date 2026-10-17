@@ -214,7 +214,7 @@ members list — the explicit default is cleared and the next rule in the table 
 - **User Details** — the **Projects** table has a **Default** column. The radio button of the
   default project is selected.
 
-![User Details panel — Projects table with the Default column; the personal project is the default](./images/user-details-default-project.png)
+![User Details panel — Projects table with the Default column; data-platform is the default project](./images/user-details-default-project.png)
 
 ### Set a User's Default Project
 
